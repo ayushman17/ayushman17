@@ -12,7 +12,7 @@
 - 💬 Ask me about anything [here](https://github.com/ayushman17/ayushman17/issues)
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I’m Badminton National player 🏸.
+- ✨ Fun fact: I’m Badminton National player 🏸.
 
 ### 📕 Latest Blog Posts
 - [Does 5G Tech Leads to Coronavirus?](https://ayushman17.blogspot.com/2020/04/does-5g-tech-leads-to-coronavirus.html)
@@ -47,7 +47,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
-### 📫 How to reach me:
+### 📫 Reach me:
 
 <a href="https://twitter.com/ayushman_17">
   <img align="left" alt="Ayushman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -64,3 +64,5 @@
 <a href="https://www.facebook.com/ayushmansingh.chauhan.1">
   <img align="left" alt="Ayushman's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
+### Leave some ❤️ by giving Stars (🌟) to some of the repositories!

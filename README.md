@@ -1,4 +1,4 @@
-# Hi there  I'm [<Ayushman/>](https://www.linkedin.com/in/ayushman17)  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+# Hi there  I'm [Ayushman](https://www.linkedin.com/in/ayushman17)  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 
 - 🔭 I’m currently working on ...

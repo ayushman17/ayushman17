@@ -69,7 +69,7 @@
 <br />
 <div align="center">
 
-### Leave some ❤️ by giving Stars (🌟) to some of the repositories!
+### Leave some ❤️ by giving Stars (🌟) to some of the repositories below!
 
 </div>
 

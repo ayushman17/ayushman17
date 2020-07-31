@@ -1,5 +1,4 @@
-<img src="https://media.giphy.com/media/xUyrMCdgrOL3ntbTvK/giphy.gif">
-# Hi there I'm [Ayushman](https://www.linkedin.com/in/ayushman17)
+# Hi there I'm [Ayushman](https://www.linkedin.com/in/ayushman17) 
 - 🔭 I’m currently working on my Website 🌐
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for help with other Developers.

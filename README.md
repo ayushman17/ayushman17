@@ -10,6 +10,14 @@
 ### 📕 Latest Blog Posts
 - [Does 5G Tech Leads to Coronavirus?](https://ayushman17.blogspot.com/2020/04/does-5g-tech-leads-to-coronavirus.html)
 
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushman17&show_icons=true&theme=dark&line_height=27" alt="Ayushman's github stats"/>
+</a>
+
+<a href="https://github.com/ayushman17">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman17&theme=dark&hide_langs_below=1" />
+</a>
+
 <br>
 
 ### Languages and Tools:

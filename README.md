@@ -6,3 +6,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I’m Badminton National player 🏸.
+
+### 📕 Latest Blog Posts
+- [Does 5G Tech Leads to Coronavirus?](https://ayushman17.blogspot.com/2020/04/does-5g-tech-leads-to-coronavirus.html)

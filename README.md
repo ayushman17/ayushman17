@@ -1,4 +1,4 @@
-# Hi there I'm [Ayushman](https://www.linkedin.com/in/ayushman17) 
+# Hi there I'm [Ayushman](https://www.linkedin.com/in/ayushman17)  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 - 🔭 I’m currently working on my Website 🌐
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with with other Developers.

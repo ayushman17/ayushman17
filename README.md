@@ -1,4 +1,11 @@
 # Hi there I'm [Ayushman](https://www.linkedin.com/in/ayushman17)  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushman17&label=Views&color=blue&style=plastic" alt="ayushman17" /></p>
+
+[![Twitter: ayushman_17](https://img.shields.io/twitter/follow/ayushman_17?style=social)](https://twitter.com/ayushman_17)
+[![Linkedin: ayushman17](https://img.shields.io/badge/-ayushman17-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushman17/)](https://www.linkedin.com/in/ayushman17/)
+[![GitHub ayushman17](https://img.shields.io/github/followers/ayushman17?label=follow&style=social)](https://github.com/ayushman17)
+ 
 - 🔭 I’m currently working on my Website 🌐
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with with other Developers.

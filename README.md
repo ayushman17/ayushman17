@@ -11,8 +11,8 @@
 - 👯 I’m looking to collaborate with other Developers.
 - 💬 Ask me about anything [here](https://github.com/ayushman17/ayushman17/issues)
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- 😄 Pronouns: He/His
-- ✨ Fun fact: I’m a Badminton National player 🏸.
+- 😄 Pronouns: He/His 👨🏻.
+- ✨ Fun fact: I’m a 🏸 Badminton National player 😎 .
 
 ### 📕 Latest Blog Posts
 - [Does 5G Tech Leads to Coronavirus?](https://ayushman17.blogspot.com/2020/04/does-5g-tech-leads-to-coronavirus.html)

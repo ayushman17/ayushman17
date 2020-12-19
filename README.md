@@ -54,20 +54,23 @@
 
 ### 📫 Reach me:
 
+<a href="https://play.google.com/store/apps/dev?id=6829475143276494298">
+  <img align="left" alt="Ayushman's GooglePlay" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleplay.svg" />
+</a>
 <a href="https://twitter.com/ayushman_17">
-  <img align="left" alt="Ayushman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ayushman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/ayushman17">
-  <img align="left" alt="Ayushman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ayushman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ayushman17">
-  <img align="left" alt="Ayushman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ayushman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/github.svg" />
 </a>
 <a href="https://t.me/ayushman17">
-  <img align="left" alt="Ayushman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Ayushman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/telegram.svg" />
 </a>
 <a href="https://www.facebook.com/ayushmansingh.chauhan.1">
-  <img align="left" alt="Ayushman's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Ayushman's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/facebook.svg" />
 </a>
 <br />
 <div align="center">

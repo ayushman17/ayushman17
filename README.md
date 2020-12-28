@@ -8,15 +8,17 @@
 [![Twitter: ayushman_17](https://img.shields.io/twitter/follow/ayushman_17?style=social)](https://twitter.com/ayushman_17)
 [![Linkedin: ayushman17](https://img.shields.io/badge/-ayushman17-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushman17/)](https://www.linkedin.com/in/ayushman17/)
 [![GitHub ayushman17](https://img.shields.io/github/followers/ayushman17?label=follow&style=social)](https://github.com/ayushman17)
- 
-- 🔭 I’m currently working on my Website 🌐
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developers.
-- 💬 Ask me about anything [here](https://github.com/ayushman17/ayushman17/issues)
-- 🥅 2020 Goals: Contribute more to Open Source projects.
-- 😄 Pronouns: He/His 👨🏻.
-- ✨ Fun fact: I’m a 🏸 Badminton National player 😎 .
 
+- 🔭 <b>I’m currently working on my Website</b>💼
+- 🌱 <b>I’m currently learning everything</b> 🤣
+- 📍 <b>Location: Bareilly 🇮🇳</b>
+- 👯 <b>I’m looking to collaborate with other Developers.</b> 🌐
+- 💬 <b>Ask me about anything [here](https://github.com/ayushman17/ayushman17/issues)</b>
+- 🥅 <b>2020 Goals: Contribute more to Open Source projects.</b>
+- 😄 <b>Pronouns: He/His 👨🏻.</b>
+- 📣 <b>Languages: English & Hindi</b>
+- ✨ <b>Fun fact: I’m a 🏸 Badminton National player 😎 .
+</b>
 ### 📕 Latest Blog Posts
 - [Does 5G Tech Leads to Coronavirus?](https://ayushman17.blogspot.com/2020/04/does-5g-tech-leads-to-coronavirus.html)
 

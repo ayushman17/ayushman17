@@ -18,7 +18,8 @@
 - 😄 <b>Pronouns: He/His 👨🏻.</b>
 - 📣 <b>Languages: English & Hindi</b>
 - ✨ <b>Fun fact: I’m a 🏸 Badminton National player 😎 .
-</b>
+
+
 ### 📕 Latest Blog Posts
 - [Does 5G Tech Leads to Coronavirus?](https://ayushman17.blogspot.com/2020/04/does-5g-tech-leads-to-coronavirus.html)
 

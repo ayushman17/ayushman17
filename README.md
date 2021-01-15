@@ -14,7 +14,7 @@
 - 📍 <b>Location: Bareilly 🇮🇳</b>
 - 👯 <b>I’m looking to collaborate with other Developers.</b> 🌐
 - 💬 <b>Ask me about anything [here](https://github.com/ayushman17/ayushman17/issues)</b>
-- 🥅 <b>2020 Goals: Contribute more to Open Source projects.</b>
+- 🥅 <b>2021 Goals: Contribute more to Open Source projects.</b>
 - 😄 <b>Pronouns: He/His 👨🏻.</b>
 - 📣 <b>Languages: English & Hindi</b>
 - ✨ <b>Fun fact: I’m a 🏸 Badminton National player 😎 .

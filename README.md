@@ -23,57 +23,52 @@
 ### 📕 Latest Blog Posts
 - [Does 5G Tech Leads to Coronavirus?](https://ayushman17.blogspot.com/2020/04/does-5g-tech-leads-to-coronavirus.html)
 
-<a href="https://github.com/iampawan">
+### ⚙️ GitHub Analytics
+<a href="https://github.com/ayushman17">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushman17&show_icons=true&theme=dark&line_height=27" alt="Ayushman's github stats"/>
 </a>
 
 <a href="https://github.com/ayushman17">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman17&theme=dark&hide_langs_below=1" />
 </a>
+  
+[![Sneha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayushman17&theme=react-dark)](https://github.com/ayushman17)
 
 <br>
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Jupyter-notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react&logoColor=42A5F5)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs&logoColor=42A5F5)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=42A5F5)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=42A5F5)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio&logoColor=a4c639)
 
 <br>
 
-### 📫 Reach me:
-
-<a href="https://play.google.com/store/apps/dev?id=6829475143276494298">
-  <img align="left" alt="Ayushman's GooglePlay" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleplay.svg" />
-</a>
-<a href="https://twitter.com/ayushman_17">
-  <img align="left" alt="Ayushman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/ayushman17">
-  <img align="left" alt="Ayushman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/linkedin.svg" />
+### 🤝🏻 Want to Connect?
+<p align="center">
+<a href="https://www.linkedin.com/in/ayushman17">
+  <img align="left" alt="Ayushman's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />
 </a>
 <a href="https://github.com/ayushman17">
-  <img align="left" alt="Ayushman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/github.svg" />
+  <img align="left" alt="Ayushman's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
 </a>
-<a href="https://t.me/ayushman17">
-  <img align="left" alt="Ayushman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/telegram.svg" />
+<a href="https://play.google.com/store/apps/dev?id=6829475143276494298">
+  <img align="left" alt="Ayushman's GooglePlay" width="22px" src="https://iconape.com/wp-content/files/fa/64777/svg/google-play-store.svg" />
 </a>
-<a href="https://www.facebook.com/ayushmansingh.chauhan.1">
-  <img align="left" alt="Ayushman's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/facebook.svg" />
+<a href="https://twitter.com/ayushman_17">
+  <img align="left" alt="Ayushman's Twitter" width="22px" src="https://iconape.com/wp-content/files/aj/377674/svg/377674.svg" />
 </a>
 <br />
 <div align="center">

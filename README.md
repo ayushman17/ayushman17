@@ -9,7 +9,7 @@
 [![Linkedin: ayushman17](https://img.shields.io/badge/-ayushman17-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushman17/)](https://www.linkedin.com/in/ayushman17/)
 [![GitHub ayushman17](https://img.shields.io/github/followers/ayushman17?label=follow&style=social)](https://github.com/ayushman17)
 
-- 🔭 <b>I’m currently working on my Website</b>💼
+- 🔭 <b>I am a pre-final year student at IIIT Guwahati</b>💼
 - 🌱 <b>I’m currently learning everything</b> 🤣
 - 📍 <b>Location: Bareilly 🇮🇳</b>
 - 👯 <b>I’m looking to collaborate with other Developers.</b> 🌐
